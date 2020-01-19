@@ -1,6 +1,3 @@
-<h4 align="center">
-  ☕ Code and coffee
-</h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnvict0r/tech-news.svg">
 
@@ -60,4 +57,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by John Victor :wave:
+Feito com ♥ by John Victor ☕ Code and coffee
